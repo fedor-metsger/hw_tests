@@ -1,0 +1,4 @@
+__pycache__/
+venv/
+.idea/
+ya_token.txt
